@@ -1,0 +1,39 @@
+{
+    "cff-version": "1.2.0",
+    "message": "If you use this software, please cite it using the metadata from this file.",
+    "title": "Attention is All You Need",
+    "type": "software",  // Not sure if 'software' or 'dataset', but we'll assume it's a software
+    "url": "https://proceedings.neurips.cc/paper_files/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf",
+    "version": "2017",
+    "references": [
+        {
+            "authors": [
+                { "name": "Vaswani, Ashish" },
+                { "name": "Shazeer, Noam" },
+                { "name": "Parmar, Niki" },
+                { "name": "Uszkoreit, Jakob" },
+                { "name": "Jones, Llion" },
+                { "name": "Gomez, Aidan N" },
+                { "name": "Kaiser, L ukasz" },
+                { "name": "Polosukhin, Illia" }
+            ],
+            "title": "Attention is All you Need",
+            "type": "conference paper",
+            "booktitle": "Advances in Neural Information Processing Systems",
+            "editor": [
+                { "name": "Guyon, I." },
+                { "name": "Von Luxburg, U." },
+                { "name": "Bengio, S." },
+                { "name": "Wallach, H." },
+                { "name": "Fergus, R." },
+                { "name": "Vishwanathan, S." },
+                { "name": "Garnett, R." }
+            ],
+            "pages": {},
+            "publisher": "Curran Associates, Inc.",
+            "year": 2017,
+            "volume": 30,
+            "url": "https://proceedings.neurips.cc/paper_files/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf"
+        }
+    ]
+}
