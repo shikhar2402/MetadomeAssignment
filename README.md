@@ -104,6 +104,3 @@ streamlit run frontend/streamlit_app.py
 - **No Streaming/Async:** The system is synchronous and not optimized for high throughput or streaming.
 - **Local Only:** All inference is local; no cloud APIs are used.
 
-## requirements.txt
-
-See below for required Python packages.
