@@ -4,6 +4,8 @@
 
 ### System Architecture
 
+![System Architecture](images/streamlit_fastapi_ollama_flowchart.png)
+
 ```
 +-------------------+         REST API         +-------------------+         Ollama LLM API
 |   Streamlit UI    | <---------------------> |    FastAPI Server | <---------------------> (local inference)
@@ -103,4 +105,3 @@ streamlit run frontend/streamlit_app.py
 - **Schema Strictness:** The output is validated against your schema, but complex/nested schemas may require additional prompt engineering.
 - **No Streaming/Async:** The system is synchronous and not optimized for high throughput or streaming.
 - **Local Only:** All inference is local; no cloud APIs are used.
-
