@@ -4,7 +4,7 @@
 
 ### System Architecture
 
-![System Architecture](images/streamlit_fastapi_ollama_flowchart.png)
+![System Architecture](images/system_design.png)
 
 ```
 +-------------------+         REST API         +-------------------+         Ollama LLM API
